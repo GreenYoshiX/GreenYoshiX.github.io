@@ -1,8 +1,8 @@
 # site settings
 
 title: GreenYoshiX | Nicole
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+description: Who is Jesus?
+taglong: Who is Jesus?
 tagshort: Jekyll theme
 url: https://GreenYoshiX.github.io
 baseurl: ""
@@ -22,7 +22,7 @@ social:
   
   github: username
   
-  linkedin: username
+  
   
   
 
