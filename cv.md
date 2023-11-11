@@ -16,6 +16,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Ullamco laboris nisi
 * Ut aliquip ex ea commodo consequat
 
-### Subsection
+### Words of Encouragement
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In today's world, it is easy to fall into the trap of fear. Despite how dark our world is getting we can look to scripture and easily be encouraged. I've read the end of the book, I know how this story ends.
