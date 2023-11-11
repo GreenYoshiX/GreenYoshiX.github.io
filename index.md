@@ -6,6 +6,7 @@ title: Home
 # About
 
 Lets take a journey of discovering Jesus all throughout the Bible. Along the way I pray we grow, learn and discover how to listen to God in an ever darkening world. This blog is intended with several purposes.
+    
     1. To Dispense Hope
         There is quite a bit of disparaging news and often times people can get carried away in that. However, thanks to the hope that Jesus gives, we don't have to succumb to negative emotions (fear, anger, depression).
     
