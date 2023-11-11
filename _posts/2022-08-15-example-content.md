@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Learn about Jesus and the 
 lead: A long post that showcases style elements.
 ---
 
