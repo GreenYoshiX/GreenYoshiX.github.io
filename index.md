@@ -7,7 +7,7 @@ title: Home
 
 Lets take a journey of discovering Jesus all throughout the Bible. Along the way I pray we grow, learn and discover how to listen to God in an ever darkening world. 
 
-This blog is intended with several purposes:
+Intentions of This Blog:
 
 1. To Dispense Hope
     
