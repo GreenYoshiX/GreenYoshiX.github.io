@@ -4,7 +4,7 @@ title: Jesus as the Passover Lamb
 lead: Exodus 12
 ---
 
-Exodus 12
+
 12:2 “This month shall be unto you the beginning of month: it shall be the first month of the year to you.”
 	◦	Just as when Jesus died for our sins as the Passover Lamb, a new calendar began (was created)
 
