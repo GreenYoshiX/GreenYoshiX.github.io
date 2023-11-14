@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-Lets take a journey of discovering Jesus all throughout the Bible. Along the way I pray we grow, learn and discover how to listen to God in an ever darkening world. 
+Lets take a journey of discovering Jesus all throughout the Bible. Through extensive research using various versions of reputable Bible translations, we will explore the scriptures to find Biblical truths as to who Jesus is. So, come with me on this journey of discovery, as I document my findings of who Jesus is and what his life and death means for us. 
 
 Intentions of This Blog:
 
@@ -17,6 +17,6 @@ There is quite a bit of disparaging news and often times people can get carried 
     
 If I can say I am passionate about anything, it is Jesus, my Savior. God tells us in the gospel of Mark, chapter 16, verse 16, "Go ye into all the world and preach the gospel to every creature." This is my intention. 
 
-So, come with me on this journey of discovery, as I document my findings of who Jesus is and what his life and death means for us. 
+
 
 {% include archive.html %}
