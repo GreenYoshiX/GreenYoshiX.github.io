@@ -16,7 +16,7 @@ lead: Exodus 12
 	◦	Jesus was without blemish, that is, he was without sin. 
 
 12:7 “And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it.”
-	◦	We are saved by the blood of Jesus
+	◦	We are saved by the blood of Jesus, our Passover lamb
 	⁃	When we are covered by the blood of the lamb, God will Passover our sins, He will overlook them.
 
 12:13 “And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.”
