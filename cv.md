@@ -22,7 +22,7 @@ In the beginning was the Word, and the Word was with God, and the Word was God.
 
 In today's world, it is easy to fall into the trap of fear. 
     
-    -For God hath not given us the spirit of fear; but of power, and love, and of a sound mind (2 Timothy 1:7). 
+-For God hath not given us the spirit of fear; but of power, and love, and of a sound mind (2 Timothy 1:7). 
     
 The world we live in is a dark place and only getting worse. However, its important to understand that because of the truths in the Bible, followers of Christ live with joy and hope. God's Word tells us exactly what is to come. I've read the end of the book, I know how this story ends. The Bible, God's inspired Word, is powerful. Trust in Jesus Christ our Savior and you too can have the peace that surpasses all understanding. 
 
