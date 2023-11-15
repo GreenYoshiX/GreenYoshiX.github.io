@@ -6,7 +6,6 @@ lead:
 
 
 ## John 3:1-6
-
 “There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 The same came to Jesus by night, and said. Unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
 Jesus answered and said unto him, Verily, Verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
