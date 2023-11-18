@@ -8,12 +8,10 @@ lead:
 ## John 3:1-6
 “There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 The same came to Jesus by night, and said. Unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
-Jesus answered and said unto him, 
-<p style="color: #ff0000"> Verily, Verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.</p>
+Jesus answered and said unto him, <font color="red">Verily, Verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.</font>
 Nicodemus saith unto him, How can a man be born when he is old? Can he enter the second time into his mother’s womb, and be born?
-Jesus answered, 
-<p style="color: #ff0000"> Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
-That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.” </p>
+Jesus answered, <font color="red">Verily, verily I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.” </font>
 
 ## John 3:16
 <p style="color: #ff0000 ">
