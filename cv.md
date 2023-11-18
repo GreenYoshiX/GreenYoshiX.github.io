@@ -18,8 +18,8 @@ In the beginning was the Word, and the Word was with God, and the Word was God.
 * For God hath not appointed us to wrath, but to obtain Salvation by our Lord Jesus Christ.
     - 1 Thessalonians 5:9
 
-<p style="color: #FFA500">
-## Words of Encouragement</p>
+
+## Words of Encouragement
 
 In today's world, it is easy to fall into the trap of fear. 
     
