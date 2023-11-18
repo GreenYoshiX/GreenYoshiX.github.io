@@ -11,7 +11,7 @@ Intentions of This Blog:
 
 1. To Dispense Hope
     
-There is quite a bit of disparaging news and often times people can get carried away in that. However, thanks to the hope that Jesus gives, we don't have to succumb to negative emotions (fear, anger, depression).
+There is quite a bit of disparaging news and often times people can get carried away in that. However, thanks to the hope that Jesus gives, we don't have to succumb to negative emotions (fear, anger, depression, etc).
     
 2. To spread a Biblical understanding of who Jesus is and why we need Him in our lives.
     
