@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Good Place to Start
-lead: Jesus Saves -- John 3:16.
+lead: Jesus Saves 
 ---
 
 ## John 3:16
