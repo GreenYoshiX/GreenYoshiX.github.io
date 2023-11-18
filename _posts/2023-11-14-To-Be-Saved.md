@@ -14,8 +14,8 @@ Jesus answered, Verily, verily I say unto thee, Except a man be born of water an
 That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.”
 
 ## John 3:16
-<p style="color: #ff0000 ">Welcome to freeCodeCamp!</p>
-“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”
+<p style="color: #ff0000 ">
+“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.” </p>
 
 ## Romans 10:9-10
 “That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
