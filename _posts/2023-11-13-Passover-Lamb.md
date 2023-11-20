@@ -5,9 +5,8 @@ lead: Exodus 12
 ---
 
 12:2  “This month shall be unto you the beginning of months: it shall be the first month of the year to you.”
-<ul>
-	<li>Just as when Jesus died for our sins as the Passover Lamb, a new calendar began (was created)</li>
-</ul>
+- Just as when Jesus died for our sins as the Passover Lamb, a new calendar began (was created)</li>
+
 
 12:3  “Speak ye unto the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:”
 -	A single lamb to cover the sins of the entire house
