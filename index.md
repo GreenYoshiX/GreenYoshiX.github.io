@@ -17,7 +17,7 @@ There is quite a bit of disparaging news and often times people can get carried 
     
 2. To spread a Biblical understanding of who Jesus is and why we need Him in our lives.
     
-In the gospel of Mark, chapter 16, verse 16, Jesus tells us to <font color="red"> "Go ye into all the world and preach the gospel to every creature." </font>
+In the gospel of Mark, chapter 16, verse 15, Jesus tells us to <font color="red"> "Go into all the world and preach the gospel to all creation." </font>
 
 
 
