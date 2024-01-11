@@ -7,6 +7,8 @@ title: Home
 
 Lets take a journey of discovering Jesus throughout the Bible. Through extensive research using various versions of reputable Bible translations, we will explore the scriptures to find Biblical truths as to who Jesus is. So, come with me on this journey of discovery, as I document my findings of who Jesus is and what his life and death means for us. 
 
+All scripture, unless otherwise stated, will be in LSB translation
+
 Intentions of This Blog:
 
 1. To Dispense Hope
