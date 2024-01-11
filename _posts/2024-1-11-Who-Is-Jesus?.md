@@ -13,3 +13,10 @@ lead:
 He was in the beginning with God.
 All things came into beingthrough Him, and apart from Him nothing came into being that has come into being.
 In Him was life, and the life was the Light of men."
+
+## John 3:17
+<font color="red">"For God did not send the Son into the world to judge the world, but that the world might be saved through Him." </font>
+
+
+## John 11:25-26
+""
