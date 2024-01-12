@@ -21,3 +21,7 @@ In Him was life, and the life was the Light of men."
 ## John 11:25-26
 "Jesus said to her,<font color="red"> I am the resurrection and the life; he who believes in Me will live even if he dies,
 and everyone who lives and believes in Me will never die -- ever. Do you believe this?</font>"
+
+
+## John 14:6
+"Jesus said to him,<font color="red"> I am the way, and the truth, and the life. No one comes to the Father but through Me.</font>"
